@@ -1,6 +1,6 @@
 R-Markdown-Presentation-Plotly
 
-Aaryaman Awasthi course project
+Rajendra Verma course project
 
 What is being done
 instructions for the assignment :
